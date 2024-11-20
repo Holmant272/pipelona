@@ -1,4 +1,4 @@
-package co.edu.EntidadFinanciera.infraestructura;//hola mundo
+package co.edu.EntidadFinanciera.infraestructura;
 
 import co.edu.EntidadFinanciera.domain.Producto; 
 import co.edu.EntidadFinanciera.domain.ProductoService;
