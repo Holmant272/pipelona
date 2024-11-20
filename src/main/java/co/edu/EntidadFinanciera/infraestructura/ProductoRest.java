@@ -1,4 +1,4 @@
-package co.edu.EntidadFinanciera.infraestructura;
+package co.edu.EntidadFinanciera.infraestructura;//juanita
 
 import co.edu.EntidadFinanciera.domain.Producto; 
 import co.edu.EntidadFinanciera.domain.ProductoService;
