@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping({"/entidadfinanciera"}) 
 
 public class PersonaRest { 
-    
+    //felipe
      @Autowired 
     PersonaService service; 
  
